@@ -38,8 +38,8 @@ Body {
 }  
 button {   
        background-color: #4CAF50;   
-       width: 90%;  
-        color: red;   
+       width: 80%;  
+        color: green;   
         padding: 15px;   
         margin: 10px 0px;   
         border: none;   
